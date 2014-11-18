@@ -5,7 +5,7 @@ v0.0.1
 
 本书源于montreal大学LISA实验室的[Deep Learning Tutorials](http://deeplearning.net/tutorial/)内容。
 
-本书源码目前由[刘勉]()和[苏辉](suhui.github.io)在 Github 上维护，欢迎参与： https://github.com/SuHui/DeepLearningTutorial
+本书源码目前由[刘勉](liumian.github.io)和[苏辉](suhui.github.io)在 Github 上维护，欢迎参与： https://github.com/SuHui/DeepLearningTutorial
 
 ##主要版本历史
 * 0.1 2014-11-TODO
