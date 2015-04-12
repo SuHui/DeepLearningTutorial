@@ -1,11 +1,11 @@
-# 深度学习教程
+﻿# 深度学习教程
 v0.0.1
 
 深度学习是机器学习的一个分支。它的主要特点是通过多层次的学习而得到对于原始数据的不同抽象层度的表示，进而提高分类和预测等任务的准确性。
 
 本书源于montreal大学LISA实验室的[Deep Learning Tutorials](http://deeplearning.net/tutorial/)内容。
 
-本书源码目前由[刘勉](liumian.github.io)和[苏辉](suhui.github.io)在 Github 上维护，欢迎参与： https://github.com/SuHui/DeepLearningTutorial
+本书源码目前由[刘勉](liumian.github.io)在 Github 上维护（请原谅我删掉了你）
 
 ##主要版本历史
 * 0.1 2014-11-TODO
